@@ -1,3 +1,5 @@
-The music file has not been directly included as that would potentially breach the distribution related restrictions.
+The music file from the video has not been directly included as that would potentially breach the distribution related restrictions.
+
+Instead I've included a track I made in Garageband for a game called Monument.
 
 A recommended source for music is: https://incompetech.filmmusic.io/

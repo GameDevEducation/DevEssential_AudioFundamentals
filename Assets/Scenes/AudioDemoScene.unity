@@ -687,7 +687,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c7cc86a858a7d2468ad29dd095b8dd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Tracks: []
+  Tracks:
+  - {fileID: 8300000, guid: d34b7e8cc25858c4b8d170f9fec55006, type: 3}
   FadeInTime: 5
   FadeOutTime: 5
 --- !u!1 &963194225
